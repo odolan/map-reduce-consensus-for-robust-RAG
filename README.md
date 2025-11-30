@@ -77,6 +77,3 @@ A more detailed write-up, including graphs, methodology, attack descriptions, an
 This includes the complete evaluation, discussion of limitations, and suggestions for future work.
 
 ---
-
-## Repository Structure
-
