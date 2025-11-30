@@ -1,0 +1,21 @@
+Experiment log
+=================
+
+attack=ignore_instructions_topk=5_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=5_maxpoison=1/stats.csv
+attack=ignore_instructions_topk=5_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=5_maxpoison=4/stats.csv
+attack=ignore_instructions_topk=5_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=5_maxpoison=8/stats.csv
+attack=ignore_instructions_topk=10_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=10_maxpoison=1/stats.csv
+attack=ignore_instructions_topk=10_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=10_maxpoison=4/stats.csv
+attack=ignore_instructions_topk=10_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=ignore_instructions_topk=10_maxpoison=8/stats.csv
+attack=biased_summary_topk=5_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=5_maxpoison=1/stats.csv
+attack=biased_summary_topk=5_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=5_maxpoison=4/stats.csv
+attack=biased_summary_topk=5_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=5_maxpoison=8/stats.csv
+attack=biased_summary_topk=10_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=10_maxpoison=1/stats.csv
+attack=biased_summary_topk=10_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=10_maxpoison=4/stats.csv
+attack=biased_summary_topk=10_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=biased_summary_topk=10_maxpoison=8/stats.csv
+attack=incorrect_fact_topk=5_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=5_maxpoison=1/stats.csv
+attack=incorrect_fact_topk=5_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=5_maxpoison=4/stats.csv
+attack=incorrect_fact_topk=5_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=5_maxpoison=8/stats.csv
+attack=incorrect_fact_topk=10_maxpoison=1: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=10_maxpoison=1/stats.csv
+attack=incorrect_fact_topk=10_maxpoison=4: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=10_maxpoison=4/stats.csv
+attack=incorrect_fact_topk=10_maxpoison=8: seeds=[123], rows=30, stats_path=results/attack=incorrect_fact_topk=10_maxpoison=8/stats.csv
