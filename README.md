@@ -72,7 +72,9 @@ The defense is practical, simple to implement, and compatible with real-world RA
 
 A more detailed write-up, including graphs, methodology, attack descriptions, and hyperparameter sweeps, is available in the PDF below:
 
-[Final Project Report (PDF)](report/Final_Project_Report.pdf)
+[Final Project Report (PDF)](https://docs.google.com/document/d/1RM4l9uzoLiUqzbuS-g3jz8PjTDEEAnQ7QLmLi1vM2w8/edit?usp=sharing)
+
+the report is also located in the /report directory
 
 This includes the complete evaluation, discussion of limitations, and suggestions for future work.
 
